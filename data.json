@@ -2,17 +2,17 @@
   {
   "name":"Google Bard",
     "icon":"",
-    "link":""
+    "link":"https://bard.google.com/"
   },
    {
   "name":"Chat GPT",
     "icon":"",
-    "link":""
+    "link":"https://chat.openai.com/"
   },
    {
   "name":"Hugging Face",
     "icon":"",
-    "link":""
+    "link":"https://huggingface.co/chat"
   },
    {
   "name":"",
