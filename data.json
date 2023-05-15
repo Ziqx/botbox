@@ -20,8 +20,14 @@
     "link":"https://www.perplexity.ai/"
   },
   {
-  "name":"Neeva Search",
+  "name":"Neeva",
     "icon":"neeva.png",
     "link":"https://neeva.com/"
+  }
+  ,
+  {
+  "name":"Elicit",
+    "icon":"elicit.png",
+    "link":"https://elicit.org/"
   }
 ]
