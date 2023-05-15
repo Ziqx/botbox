@@ -52,7 +52,7 @@ We welcome contributions from the community to enhance the app and keep it up to
 3. Submit a pull request with your changes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/Ziqx/botbox/blob/main/LICENSE).
 
 ## Contact
 If you have any questions or suggestions regarding **BotBox**, feel free to contact us at _fathah@ziqx.in_.
