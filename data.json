@@ -13,5 +13,10 @@
   "name":"Hugging Face",
     "icon":"huggingface.png",
     "link":"https://huggingface.co/chat"
-  }
+  },
+  {
+  "name":"Perplexity",
+    "icon":"perplexity.png",
+    "link":"https://www.perplexity.ai/"
+  },
 ]
