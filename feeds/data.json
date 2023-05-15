@@ -7,6 +7,21 @@
     "category":"Artificial Intelligence"
   }  ,
     {
+  "title":"A Very Gentle Introduction to Large Language Models without the Hype",
+    "author":"Mark Riedl",
+    "link":"https://medium.com/@mark-riedl/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e",
+    "thumb":"https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IAqNf5khYicsUauaxuTnJA.png",
+    "category":"NLP"
+  } 
+   ,
+    {
+  "title":"Introduction to Neural Nets (Without the Brain Metaphor)",
+    "author":"Mark Riedl",
+    "link":"https://medium.com/@mark-riedl/introduction-to-neural-nets-without-the-brain-metaphor-874e7950bca0",
+    "thumb":"https://miro.medium.com/v2/resize:fit:4800/format:webp/1*q7c-NaKsBrVIlOEuS4WS5A.png",
+    "category":"Deep Learning"
+  }  ,
+    {
   "title":"",
     "author":"",
     "link":"",
