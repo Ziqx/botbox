@@ -18,5 +18,10 @@
   "name":"Perplexity",
     "icon":"perplexity.png",
     "link":"https://www.perplexity.ai/"
+  },
+  {
+  "name":"Neeva Search",
+    "icon":"neeva.png",
+    "link":"https://neeva.com/"
   }
 ]
