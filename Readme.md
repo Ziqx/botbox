@@ -1,3 +1,5 @@
+![BotBox Banner](https://raw.githubusercontent.com/Ziqx/botbox/main/banner.png)
+
 # BotBox
 
 BotBox is an open-source app designed for exploring various AI chatbots and staying updated with the latest articles related to AI. It provides a collection of AI chatbots, including ChatGPT and Google Bard, and a curated list of articles in the AI field. The app encourages community participation, allowing users to contribute to the bots' data and the articles feed.
