@@ -42,4 +42,10 @@
     "icon":"copyai.png",
     "link":"https://app.copy.ai/"
   }
+   ,
+  {
+  "name":"You Chat",
+    "icon":"youchat.png",
+    "link":"https://you.com/search?q=hi&tbm=youchat"
+  }
 ]
