@@ -22,10 +22,34 @@
     "category":"Deep Learning"
   }  ,
     {
+  "title":"ChatGPT Hype Is Proof Nobody Really Understands AI",
+    "author":"Nabil Alouani",
+    "link":"https://medium.com/geekculture/chatgpt-hype-is-proof-nobody-really-understands-ai-7ce7015f008b",
+    "thumb":"https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZHUi1w0On8I9GCQMux46yw.png",
+    "category":"Chatbot"
+  } 
+   ,
+    {
+  "title":"Turn ChatGPT Into 15 Experts Using These Specific Prompts",
+    "author":"Nabil Alouani",
+    "link":"https://medium.com/@nabil-alouani/turn-chatgpt-into-15-experts-using-these-specific-prompts-2240d14c1d43",
+    "thumb":"https://miro.medium.com/v2/resize:fit:1400/format:webp/1*QgUo36WVFeKIIhX7xXK3YQ.png",
+    "category":"Chatbot"
+  }
+   ,
+    {
+  "title":"List of Open Sourced Fine-Tuned Large Language Models (LLM)",
+    "author":"Sung Kim",
+    "link":"https://medium.com/geekculture/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76",
+    "thumb":"https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZHWs581gCKoHBEr4tnZpKg.jpeg",
+    "category":"LLM"
+  }
+   ,
+    {
   "title":"",
     "author":"",
     "link":"",
     "thumb":"",
     "category":""
-  } 
+  }
 ]
