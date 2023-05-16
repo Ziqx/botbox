@@ -30,4 +30,16 @@
     "icon":"elicit.png",
     "link":"https://elicit.org/"
   }
+   ,
+  {
+  "name":"Writesonic",
+    "icon":"writesonic.png",
+    "link":"https://app.writesonic.com/"
+  }
+   ,
+  {
+  "name":"Copy AI",
+    "icon":"copyai.png",
+    "link":"https://app.copy.ai/"
+  }
 ]
